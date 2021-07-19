@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Account Page Feature
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 28.821 s <<< FAILURE! - in Account Page Feature
+Accounts section count(Account Page Feature)  Time elapsed: 14.699 s  <<< FAILURE!
+java.lang.AssertionError
+
